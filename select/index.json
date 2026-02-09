@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Habitual",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-02-09T16:48:06.372725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Habitual",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/01_Habitual_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Habitual Crush",
+      "artist": "C418",
+      "has_synced": true,
+      "path": "select/02_Habitual_Crush_C418.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Habitual Decline",
+      "artist": "Like Moths to Flames",
+      "has_synced": false,
+      "path": "select/03_Habitual_Decline_Like_Moths_to_Flames.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Habitual Line-Stepper",
+      "artist": "Periphery",
+      "has_synced": false,
+      "path": "select/04_Habitual_Line-Stepper_Periphery.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Habitual Line‐Stepper",
+      "artist": "Periphery",
+      "has_synced": true,
+      "path": "select/05_Habitual_Line‐Stepper_Periphery.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Habitual Infamy",
+      "artist": "Suffocation",
+      "has_synced": true,
+      "path": "select/06_Habitual_Infamy_Suffocation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spasmolytic (Deftones Habitual mix)",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/07_Spasmolytic_(Deftones_Habitual_mix)_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spasmolytic (Habitual Mix)",
+      "artist": "Deftones",
+      "has_synced": false,
+      "path": "select/08_Spasmolytic_(Habitual_Mix)_Deftones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Habitual",
+      "artist": "Hot Water Music",
+      "has_synced": true,
+      "path": "select/09_Habitual_Hot_Water_Music.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Habitual Offender",
+      "artist": "Spy",
+      "has_synced": false,
+      "path": "select/10_Habitual_Offender_Spy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Habitual Decline",
+      "artist": "Like Moths to Flames",
+      "has_synced": true,
+      "path": "select/11_Habitual_Decline_Like_Moths_to_Flames.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Habitual Love",
+      "artist": "Okay Kaya",
+      "has_synced": true,
+      "path": "select/12_Habitual_Love_Okay_Kaya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Habitual",
+      "artist": "Honey Revenge",
+      "has_synced": false,
+      "path": "select/13_Habitual_Honey_Revenge.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spasmolytic Deftones Remix (Habitual Mix)",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/14_Spasmolytic_Deftones_Remix_(Habitual_Mix)_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Habitual Pain (feat. Garren)",
+      "artist": "Phora feat. Garren",
+      "has_synced": true,
+      "path": "select/15_Habitual_Pain_(feat._Garren)_Phora_feat._Garren.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Habitual Pain (feat. Garren)",
+      "artist": "Phora",
+      "has_synced": true,
+      "path": "select/16_Habitual_Pain_(feat._Garren)_Phora.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Habitual",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/17_Habitual_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Habitual",
+      "artist": "Chuuwee",
+      "has_synced": false,
+      "path": "select/18_Habitual_Chuuwee.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Habitual [Explicit]",
+      "artist": "Honey Revenge",
+      "has_synced": true,
+      "path": "select/19_Habitual_[Explicit]_Honey_Revenge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Habitual",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_Habitual_Justin_Bieber.txt"
+    }
+  ]
+}
